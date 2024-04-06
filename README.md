@@ -111,9 +111,8 @@ As scheduling has become crucial in today’s busy world, a student must have a 
 Many-a-times, word of mouth isn’t enough to let everyone know about the events that are supposed to take place on campus. As everyone has a smartphone accessible, they can do this using just a single app. Because, what is college life without the events and their updates!
 ```
 5. E-Library 
-```
 
-## 🛠Project Setup
+ 🛠Project Setup
 
 1. We suggest starting by installing Android Studio, as that's where we've developed our app.
 2.  git clone from [GitHub Repository](#Github-Repository), make sure you get all the assets and the project files successfully cloned to your machine.
@@ -154,4 +153,3 @@ Our mentors with their emails and links to their GitHub accounts:
 <br>
 
 ![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-
